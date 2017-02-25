@@ -1,0 +1,2 @@
+# Firefox Bookmarks backup file
+
